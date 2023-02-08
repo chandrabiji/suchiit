@@ -1,0 +1,52 @@
+#banner{
+    float: right;
+    margin: -219px -12px 10px 10px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #065fa5;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+  .menu{
+      margin: 24px 10px 10px 10px;
+  }
+
+  #logo{
+    margin: 15px 1271px 10px 10px;
+    padding: 44px 165px 43px 27px;
+    border: 2px solid red;
+    border-radius: 100px;
+   
+  }
+  #leftmenu{
+      float: left;
+      margin: 10px 10px 10px 10px;
+  }
+  #rightmenu{
+      float: right;
+      margin: 10px 10px 10px 10px;
+  }
+
+  #main p{
+      font-size: 20px;
+      line-height: 1.5em;
+  }
+  .footer h5{
+    text-align: center;
+    margin-top: 150px;
+  }
